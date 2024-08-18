@@ -4,10 +4,6 @@ import java.awt.event.*;
 import java.util.ArrayList;
 import java.util.Random;
 
-import javax.imageio.ImageIO;
-import java.io.File;
-import java.io.IOException;
-
 public class GamePanel extends JPanel implements ActionListener, KeyListener{
     
     int boardWidth = 394;
